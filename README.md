@@ -20,6 +20,7 @@
 # Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanVerma2202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 # Binary Search
 |  |
@@ -32,10 +33,12 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
 # Graph
 |  |
@@ -53,3 +56,11 @@
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/AmanVerma2202/LeetCode/tree/master/1970-sorting-the-sentence) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
+# Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
