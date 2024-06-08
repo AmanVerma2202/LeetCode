@@ -11,6 +11,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanVerma2202/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/AmanVerma2202/LeetCode/tree/master/0409-longest-palindrome) |
+| [1205-defanging-an-ip-address](https://github.com/AmanVerma2202/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1970-sorting-the-sentence](https://github.com/AmanVerma2202/LeetCode/tree/master/1970-sorting-the-sentence) |
 # Sliding Window
 |  |
