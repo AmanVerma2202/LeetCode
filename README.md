@@ -15,6 +15,7 @@
 | [1205-defanging-an-ip-address](https://github.com/AmanVerma2202/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanVerma2202/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/AmanVerma2202/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/AmanVerma2202/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 # Sliding Window
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/AmanVerma2202/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/AmanVerma2202/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 # Union Find
 |  |
 | ------- |
