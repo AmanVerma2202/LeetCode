@@ -24,6 +24,7 @@
 # Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/AmanVerma2202/LeetCode/tree/master/0057-insert-interval) |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanVerma2202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1380-number-of-closed-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/1380-number-of-closed-islands) |
