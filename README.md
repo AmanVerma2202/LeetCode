@@ -41,17 +41,20 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/1380-number-of-closed-islands) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/1380-number-of-closed-islands) |
 # Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 # Topological Sort
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/1380-number-of-closed-islands) |
 # Matrix
 |  |
