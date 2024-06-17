@@ -41,6 +41,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/AmanVerma2202/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/1380-number-of-closed-islands) |
 # Breadth-First Search
@@ -48,12 +49,14 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/AmanVerma2202/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1380-number-of-closed-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/1380-number-of-closed-islands) |
 # Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AmanVerma2202/LeetCode/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/AmanVerma2202/LeetCode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AmanVerma2202/LeetCode/tree/master/0801-is-graph-bipartite) |
 # Topological Sort
 |  |
@@ -87,3 +90,11 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AmanVerma2202/LeetCode/tree/master/0155-min-stack) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmanVerma2202/LeetCode/tree/master/0744-network-delay-time) |
+# Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AmanVerma2202/LeetCode/tree/master/0744-network-delay-time) |
