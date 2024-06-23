@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanVerma2202/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanVerma2202/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/AmanVerma2202/LeetCode/tree/master/0409-longest-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanVerma2202/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -24,6 +25,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanVerma2202/LeetCode/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/AmanVerma2202/LeetCode/tree/master/0057-insert-interval) |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanVerma2202/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
