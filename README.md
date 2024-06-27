@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanVerma2202/LeetCode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/AmanVerma2202/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0057-insert-interval](https://github.com/AmanVerma2202/LeetCode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/AmanVerma2202/LeetCode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/AmanVerma2202/LeetCode/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AmanVerma2202/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/AmanVerma2202/LeetCode/tree/master/0090-subsets-ii) |
 # Bit Manipulation
 |  |
